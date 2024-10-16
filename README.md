@@ -1,4 +1,4 @@
 # firstrepo
 This is my first repository.
 <br>
-Author : Snehal Birajdar.
+Author : Snehal (Satish) Birajdar.
